@@ -5,5 +5,4 @@
   <project name="chautruongthinh/android_device_pantech_msm8974-common" path="device/pantech/msm8974-common" />
   <project name="chautruongthinh/android_device_pantech_ef63" path="device/pantech/ef63" />
   <project name="chautruongthinh/android_vendor_pantech" path="vendor/pantech" />
-  <project name="LineageOS/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" />
 </manifest>
