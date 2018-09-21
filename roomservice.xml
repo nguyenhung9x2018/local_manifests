@@ -3,13 +3,13 @@
 
 <!-- Repositories to replace -->
   <remove-project name="LineageOS/android_packages_apps_Updater" />
-  <project name="chautruongthinh/android_packages_apps_Updater" path="packages/apps/Updater" />
+  <project name="chautruongthinh/android_packages_apps_Updater" path="packages/apps/Updater" remote="github" revision="lineage-16.0" />
 
 <!-- Custom -->
-  <project name="chautruongthinh/android_kernel_pantech_msm8x74" path="kernel/pantech/msm8x74" />
-  <project name="chautruongthinh/android_device_pantech_msm8974-common" path="device/pantech/msm8974-common" />
-  <project name="chautruongthinh/android_device_pantech_ef63" path="device/pantech/ef63" />
-  <project name="chautruongthinh/android_vendor_pantech" path="vendor/pantech" />
-  <project name="LineageOS/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" />
-  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" />
+  <project name="chautruongthinh/android_kernel_pantech_msm8x74" path="kernel/pantech/msm8x74" remote="github" revision="lineage-16.0" />
+  <project name="chautruongthinh/android_device_pantech_msm8974-common" path="device/pantech/msm8974-common" remote="github" revision="lineage-16.0" />
+  <project name="chautruongthinh/android_device_pantech_ef63" path="device/pantech/ef63" remote="github" revision="lineage-16.0" />
+  <project name="chautruongthinh/android_vendor_pantech" path="vendor/pantech" remote="github" revision="lineage-16.0" />
+  <project name="LineageOS/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="lineage-15.1" />
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
 </manifest>
