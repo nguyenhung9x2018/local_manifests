@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--Please do not manually edit this file-->
 <manifest>
-  <project name="chautruongthinh/android_device_pantech_ef63" path="device/pantech/ef63" remote="github" revision="dot-o" />
-  <project name="chautruongthinh/android_device_pantech_msm8974-common" path="device/pantech/msm8974-common" remote="github" revision="dot-o" />
-  <project name="chautruongthinh/android_vendor_pantech" path="vendor/pantech" remote="github" revision="dot-o" />
-  <project name="chautruongthinh/android_kernel_pantech_msm8x74" path="kernel/pantech/msm8x74" remote="github" revision="dot-o" />
+  <project name="Zentalk-VN/android_device_asus_zenfone3" path="device/asus/zenfone3" remote="github" revision="dot-o" />
+  <project name="Zentalk-VN/proprietary_vendor_asus_zenfone3" path="vendor/asus/zenfone3" remote="github" revision="dot-o" />
+  <project name="Zentalk-VN/android_kernel_asus_msm8953" path="kernel/asus/msm8953" remote="github" revision="dot-o" />
 </manifest>
 
