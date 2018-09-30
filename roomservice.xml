@@ -2,7 +2,7 @@
 <!--Please do not manually edit this file-->
 <manifest>
   <project name="Zentalk-VN/android_device_asus_zenfone3" path="device/asus/zenfone3" remote="github" revision="Pixys" />
-  <project name="Zentalk-VN/proprietary_vendor_asus_zenfone3" path="vendor/asus/zenfone3" remote="github" revision="Pixys" />
+  <project name="makorn645/proprietary_vendor_asus" path="vendor/asus" remote="github" revision="cr-7.0" />
   <project name="Zentalk-VN/android_kernel_asus_msm8953" path="kernel/asus/msm8953" remote="github" revision="Pixys" />
 </manifest>
 
